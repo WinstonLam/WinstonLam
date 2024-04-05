@@ -1,14 +1,14 @@
 <!--  README inspired by: https://github.com/DenverCoder1/DenverCoder1/blob/main/README.md -->
-<p align="center">
+<div align="center">
   <a href="https://github.com/WinstonLam">
     <!-- <img src="https://github.com/WinstonLam/WinstonLam/assets/45365128/58353804-382a-4bc9-8b86-be0454e6a448" width="210"> -->
     <h3 style="color: #41b883;"> Winston Lam <h3>
-</p>
+</div>
 
 <!-- https://readme-typing-svg.herokuapp.com/demo/ -->
-<p align="center">
+<div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=41B883&background=&random=false&width=435&lines=Software+Engineer" alt="Typing SVG" /></a>
-</p>
+</div>
 
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
