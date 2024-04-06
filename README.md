@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/WinstonLam">
     <!-- <img src="https://github.com/WinstonLam/WinstonLam/assets/45365128/58353804-382a-4bc9-8b86-be0454e6a448" width="210"> -->
-    <h1 style="color:#41b883;">Winston Lam</h1>
+    <img src="https://uploads-ssl.webflow.com/5fdd088e571ea0142dedc7eb/661199eb767db0efc4bac274_template.png" width="210">
 </div>
 
 <!-- https://readme-typing-svg.herokuapp.com/demo/ -->
