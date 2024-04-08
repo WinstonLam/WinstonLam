@@ -35,7 +35,7 @@
 <details open> 
   <summary><h2>📘 My Favorite Open Source Projects</h2></summary>
   <p align="left">
-    <a href="https://github.com/WinstonLam/Timitin2.0"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WinstonLam&repo=Timitin2.0&theme=vue-dark&hide_border=true&show_icons=false" alt="Timitin2.0"></a>
+    <a href="https://github.com/WinstonLam/TimeItIn"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WinstonLam&repo=TimeItIn&theme=vue-dark&hide_border=true&show_icons=false" alt="TimeItIn"></a>
     <a href="https://github.com/WinstonLam/OutlookAutoMailer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WinstonLam&repo=OutlookAutoMailer&theme=vue-dark&hide_border=true&show_icons=false" alt="OutlookAutoMailer"></a>
     <a href="https://github.com/WinstonLam/Eth-Layer2-Scaling-Framework"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=WinstonLam&repo=Eth-Layer2-Scaling-Framework&theme=vue-dark&hide_border=true&show_icons=false" alt="Eth-Layer2-Scaling-Framework"></a>
   
